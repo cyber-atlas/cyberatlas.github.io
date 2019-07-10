@@ -59,3 +59,32 @@ Then you take the piles and box them up. You of course have to label the box.
 A `git commit` does this as well. 
 
 Git commit takes all of the files from staging, and puts them a labeled box. The items are all in the exact same condition they were in when they were put in the box, the box will always be there in your house with the same label and condition captured, and they're also still accessible to you should you decide to keep using them. 
+
+To make a commit:
+```
+git commit -m "Message about what you did"
+```
+Now that you have your stuff in a neat box, you will want to get it on the truck. 
+
+Use `git push` to do this. 
+
+It takes your commits and pushes them to your repository. 
+
+In other words git push takes your boxes and pushes them on to the moving truck. 
+
+To push:
+
+```
+git push
+```
+
+Now your commits are pushed to the git server. 
+
+In other words, your neatly packed boxes of stuff have been put on the on the moving truck and are accessible from anywhere. 
+
+You can verify this by visiting the website with the repo. 
+
+ To do this, go to https://github.com and log in.
+ 
+ Click on the repo and you should see your files with the changes you made. 
+
