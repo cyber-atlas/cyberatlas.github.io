@@ -84,7 +84,20 @@ In other words, your neatly packed boxes of stuff have been put on the on the mo
 
 You can verify this by visiting the website with the repo. 
 
- To do this, go to https://github.com and log in.
+To do this, go to https://github.com and log in.
  
- Click on the repo and you should see your files with the changes you made. 
+Click on the repo and you should see your files with the changes you made. 
 
+Now that your commits are pushed to your git server, you need to be able to get the files on any computer. 
+
+It'll be like taking the boxes from the moving truck and unpacking the moving truck. 
+
+The major difference is that git does not pull 
+
+While the entire file is captured in each commit, it is worth noting that git actually works by tracking the changes made to the files. 
+
+Think of it as instead of getting rid of your old stuff and replacing it each time, git tracks the changes made to the stuff, and updates with the changes. 
+
+So when you use git pull on a different device, instead of deleting the already present files, the changes from the repo are merged with your local files. 
+
+The end result is the same, your files are are the same as what it is in the repo.
