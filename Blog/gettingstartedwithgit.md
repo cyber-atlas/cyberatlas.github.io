@@ -3,7 +3,7 @@
 This is by no means a comprehensive guide to git. 
 Rather it is geared to novice programmers in order to expose them to the idea of using git, as well as showing them how. 
  
- ### Why The Need For This?
+### Why The Need For This?
  ---
 
  Often new programmers have not heard of git, nor thought of version control. 
