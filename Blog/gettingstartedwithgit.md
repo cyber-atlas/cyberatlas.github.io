@@ -60,6 +60,8 @@ In other words, adds the files to staging.
 
 But remember, you can only add files from the same room, or repository. 
 
+Related Image
+
 ![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
 
@@ -76,6 +78,8 @@ To make a commit:
 ```properties
 git commit -m "Message about what you did"
 ```
+Related Image
+
 ![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
 ### Git Push
@@ -105,6 +109,7 @@ To do this, go to [github.com](https://github.com) and log in.
  
 Click on the repo and you should see your files with the changes you made. 
 
+Related Image
 
 ![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
@@ -133,6 +138,8 @@ While the entire file is captured in each commit, it is worth noting that git ac
 
 Git fetch is just getting changes that might not be on you local machine. 
 
+
+Related Image
 
 ![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
@@ -166,6 +173,7 @@ It is a good habit to get into to fetch before you pull, in case there are chang
 
 This comes more into play once you start diving deeper into git. 
 
+Related image  
 ![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
 ### Other Useful Knowledge
