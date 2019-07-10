@@ -60,6 +60,8 @@ In other words, adds the files to staging.
 
 But remember, you can only add files from the same room, or repository. 
 
+![Related Image](http://cdn.meme.am/instances/63894903.jpg)
+
 ### Git Commit
 --- 
 
@@ -73,6 +75,8 @@ To make a commit:
 ```properties
 git commit -m "Message about what you did"
 ```
+![Related Image](http://cdn.meme.am/instances/63894903.jpg)
+
 
 ### Git Push
 ---
@@ -101,6 +105,9 @@ To do this, go to [github.com](https://github.com) and log in.
  
 Click on the repo and you should see your files with the changes you made. 
 
+
+![Related Image](http://cdn.meme.am/instances/63894903.jpg)
+
 ### Git Fetch
 ---
 
@@ -125,6 +132,9 @@ Before we move further, there is something about git that you should know.
 While the entire file is captured in each commit, it is worth noting that git actually works by tracking the changes made to the files. 
 
 Git fetch is just getting changes that might not be on you local machine. 
+
+
+![Related Image](http://cdn.meme.am/instances/63894903.jpg)
 
 ### Git Pull
 ---
@@ -156,6 +166,8 @@ It is a good habit to get into to fetch before you pull, in case there are chang
 
 This comes more into play once you start diving deeper into git. 
 
+![Related Image](http://cdn.meme.am/instances/63894903.jpg)
+
 ### Some Other Useful Knowledge
 ----
 
@@ -177,6 +189,8 @@ Luckily, [gitignore.io](https://gitignore.io) is a handy site to help you make y
 This is a very good habit to get into.
 Doing so makes it easier to identify a change that broke part of your program and revert to a time when it worked. 
 Having many small commits, as opposed to one large one, is also extremely useful later on when you are working with a team. 
-Not to mention that you will have more work saved in the cloud in case of an unfortuanate event such as your computer dying or crashing. 
+Not to mention that you will have more work saved in the cloud in case of an unfortunate event such as your computer dying or crashing. 
 
+### Further Steps
+---
 
