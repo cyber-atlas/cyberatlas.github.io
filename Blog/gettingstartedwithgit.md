@@ -32,10 +32,10 @@ You will be able to
 That's exactly how you should think of it. 
 Like you are constantly moving. 
 We'll assume that you are at home right now.
-In this case, your comptuer is your home. 
+In this case, your computer is your home. 
 All of your files would be your stuff and you have stuff in each room.
 
-In this case, rooms are repositiories. 
+In this case, rooms are repositories. 
 Each room has stuff, each repository has files. 
 
 Let's say you have really big rooms, so big that each room needs it's own moving truck. 
@@ -60,7 +60,8 @@ In other words, adds the files to staging.
 
 But remember, you can only add files from the same room, or repository. 
 
-![Related Image](http://cdn.meme.am/instances/63894903.jpg)
+![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
+
 
 ### Git Commit
 --- 
@@ -75,8 +76,7 @@ To make a commit:
 ```properties
 git commit -m "Message about what you did"
 ```
-![Related Image](http://cdn.meme.am/instances/63894903.jpg)
-
+![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
 ### Git Push
 ---
@@ -106,7 +106,7 @@ To do this, go to [github.com](https://github.com) and log in.
 Click on the repo and you should see your files with the changes you made. 
 
 
-![Related Image](http://cdn.meme.am/instances/63894903.jpg)
+![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
 ### Git Fetch
 ---
@@ -134,7 +134,7 @@ While the entire file is captured in each commit, it is worth noting that git ac
 Git fetch is just getting changes that might not be on you local machine. 
 
 
-![Related Image](http://cdn.meme.am/instances/63894903.jpg)
+![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
 ### Git Pull
 ---
@@ -166,9 +166,9 @@ It is a good habit to get into to fetch before you pull, in case there are chang
 
 This comes more into play once you start diving deeper into git. 
 
-![Related Image](http://cdn.meme.am/instances/63894903.jpg)
+![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
 
-### Some Other Useful Knowledge
+### Other Useful Knowledge
 ----
 
 * IF you are in your main project folder, `git add .  `{:.properties} will add all of your files and directories, as well as any nested files or directories. 
@@ -194,3 +194,11 @@ Not to mention that you will have more work saved in the cloud in case of an unf
 ### Further Steps
 ---
 
+A collection of resources about git: [try.github.io](https://try.github.io)
+
+The official tutorial made by git: [git-scm.com/docs/gittutorial](https://git-scm.com/docs/gittutorial) 
+
+A game to learn git: [learngitbranching.js.org](https://learngitbranching.js.org/)
+
+### Recap
+---
