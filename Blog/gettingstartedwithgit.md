@@ -35,6 +35,10 @@ We'll assume that you are at home right now.
 In this case, your computer is your home. 
 All of your files would be your stuff and you have stuff in each room.
 
+### Git Repositories
+---
+## TODO ADD INFO ABOUT REPOSITORIES, HOW TO MAKE ONE AND HOW TO CLONE
+
 In this case, rooms are repositories. 
 Each room has stuff, each repository has files. 
 
