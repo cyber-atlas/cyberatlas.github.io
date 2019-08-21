@@ -12,7 +12,7 @@ Rather it is geared to novice programmers in order to expose them to the idea of
  <br> <br>
  But making mistakes is inevitable. 
  Git fine honed sword, but one slip of the hand and you will get cut. 
- Whether you accidently rebase instead of merging, or everyone on your team forks the repository instead of cloning it, mistakes will be made. 
+ Whether you accidentally rebase instead of merging, or everyone on your team forks the repository instead of cloning it, mistakes will be made. 
  And you know what? 
  Thats okay. <br><br>
 If you learn now, before you and your team is trying to learn how it works, you will be reducing the learning curve. 
@@ -55,7 +55,7 @@ There are a few steps to this, and it's not as complicated as it might seem at f
 You take all of the stuff you want, and put it in a pile.
 
 In git, this is done with `git add` the proper usage is:
-```properties
+```
 git add <files to add>
 ```
 This adds the files you specified to the pile.
