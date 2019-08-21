@@ -79,11 +79,9 @@ A `git commit` does this as well.
 Git commit takes all of the files from staging, and puts them a labeled box. The items are all in the exact same condition they were in when they were put in the box, the box will always be there in your house with the same label and condition captured, and they're also still accessible to you should you decide to keep using them. 
 
 To make a commit:
-
-```shell
+```properties
 git commit -m "Message about what you did"
 ```
-
 Related Image
 
 ![Related Image](https://pics.me.me/thumb_hal-9000-im-sorry-dave-i-cant-do-that-com-14978728.png "Image Hover Title")
