@@ -167,7 +167,7 @@ article {
 }
 
 article h1 {
-	font-size: 17px;
+/*	font-size: 17px;*/
 	margin: 0 0 10px 0;
 }
 article h1 a {
@@ -185,7 +185,7 @@ article img {
 
 article .meta {
 	padding-top: 6px;
-	font-size: 0.85em;
+/*	font-size: 0.85em;*/
 	font-style: italic;
 }
 
