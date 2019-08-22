@@ -132,9 +132,7 @@ Git fetch gets the new data from a repo.
 
 It's like taking the boxes from the moving truck to get your stuff. <br>
 
-```
-git fetch
-```
+```git fetch```
 
 Now that you know what has changed, you are able to to pull the stuff out and put it in the corresponding room in your new place. 
 
