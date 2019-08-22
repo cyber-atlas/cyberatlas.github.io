@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Getting Started With Git"
+date:   2019-08-21 22:00:00
+categories: jekyll update
+---
 # Getting Started With Git 
 
 This is by no means a comprehensive guide to git. 
@@ -132,7 +138,9 @@ Git fetch gets the new data from a repo.
 
 It's like taking the boxes from the moving truck to get your stuff. <br>
 
-```git fetch```
+```
+git fetch
+```
 
 Now that you know what has changed, you are able to to pull the stuff out and put it in the corresponding room in your new place. 
 
