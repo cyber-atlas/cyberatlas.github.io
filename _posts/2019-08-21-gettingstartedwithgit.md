@@ -54,7 +54,8 @@ There are a few steps to this, and it's not as complicated as it might seem at f
 
 You take all of the stuff you want, and put it in a pile.
 
-In git, this is done with `git add` the proper usage is:
+In git, this is done with `git add` the proper usage is: <br>
+
 ```
 git add <files to add>
 ```
@@ -78,8 +79,9 @@ A `git commit` does this as well.
 
 Git commit takes all of the files from staging, and puts them a labeled box. The items are all in the exact same condition they were in when they were put in the box, the box will always be there in your house with the same label and condition captured, and they're also still accessible to you should you decide to keep using them. 
 
-To make a commit:
-```properties
+To make a commit: <br>
+
+```
 git commit -m "Message about what you did"
 ```
 Related Image
@@ -97,9 +99,9 @@ It takes your commits and pushes them to your repository.
 
 In other words git push takes your boxes and pushes them on to the moving truck. 
 
-To push:
+To push: <br>
 
-```properties
+```
 git push
 ```
 
@@ -128,9 +130,9 @@ This is done with `git fetch`.
 
 Git fetch gets the new data from a repo. 
 
-It's like taking the boxes from the moving truck to get your stuff. 
+It's like taking the boxes from the moving truck to get your stuff. <br>
 
-```properties
+```
 git fetch
 ```
 
@@ -154,9 +156,9 @@ Now we need to update the files on our local machine with the updated versions t
 
 Essentially, we are unpacking the boxes that we just got from the moving truck. 
 
-To do this, we use `git pull`. 
+To do this, we use `git pull`. <br>
 
-```properties
+```
 git pull
 ```
 
