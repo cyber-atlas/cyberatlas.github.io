@@ -137,7 +137,8 @@ This is done with `git fetch`.
 Git fetch gets the new data from a repo. 
 
 It's like taking the boxes from the moving truck to get your stuff. <br>
-
+<br>
+Usage: <br>
 ```
 git fetch
 ```
